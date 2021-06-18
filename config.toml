@@ -1,8 +1,8 @@
-# baseURL = "http://example.org/"
+# baseURL = ""
 # languageCode = "en-us"
 # title = "My New Hugo Site"
 ######################## default configuration ####################
-baseURL = "https://example.anishdobariya.com"
+baseURL = ""
 #title = "Portf"
 theme = "somrat"
 # post pagination
